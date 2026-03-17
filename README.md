@@ -1,4 +1,4 @@
-# realtime-audio
+# atomic-audio
 
 ## Getting Started
 
